@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springeureka/springeureka.iml" filepath="$PROJECT_DIR$/springeureka/springeureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springprovider/springprovider.iml" filepath="$PROJECT_DIR$/springprovider/springprovider.iml" />
+    </modules>
+  </component>
+</project>
