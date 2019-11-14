@@ -9,7 +9,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<!-- Spring Cloud 之 Eureka 入门案例 -->
+		<!--22 spring Cloud 之 Eureka 入门案例 -->
 		<!-- Spring Cloud Eureka 服务注册中心 -->
 		<module>springcloud-eureka-server</module>
 		<!-- Spring Cloud 服务提供者 -->
